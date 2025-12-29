@@ -1,0 +1,7 @@
+{
+  "name": " FoodCheck AI",
+  "description": "Know your food before you eat. A trustworthy ingredient analyzer providing transparent, health-focused insights from product packaging.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
